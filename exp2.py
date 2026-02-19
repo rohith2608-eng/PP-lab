@@ -11,22 +11,22 @@ print(b)
 print(type(b))
 
 # Complex
-c = 1j
+c = 69j
 print(c)
 print(type(c))
 
 # String
-s = "GoEduHub.com"
+s = "Github.com/rohith2608-eng"
 print(s)
 print(type(s))
 
 # List
-l = ["Go", "Edu", "Hub"]
+l = ["Git", "hub", "rohith2608-eng"]
 print(l)
 print(type(l))
 
 # Tuple
-t = ("Python", "from", "GoEduHub.com")
+t = ("Python", "from", "Github.com")
 print(t)
 print(type(t))
 
